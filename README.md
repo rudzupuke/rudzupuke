@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rudzupuke
+- 👋 Hi, my name is Diana.
 - 👀 I’m interested in frontend and web development.
 - 🌱 I’m currently learning React.js
 
